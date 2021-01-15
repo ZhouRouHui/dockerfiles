@@ -1,6 +1,6 @@
 FROM php:7.4-fpm
 
-ENV APP_ROOT /app/web
+ENV APP_ROOT /web
 
 # 官方版本默认安装扩展:
 # Core, ctype, curl
